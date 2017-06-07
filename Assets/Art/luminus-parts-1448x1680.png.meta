@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 9292276fb25c9cd4fb7fe6d1950357b2
+timeCreated: 1493913218
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lmns_braco_sup_dir
+    21300002: lmns_braco_inf_dir
+    21300004: lmns_cabeca
+    21300006: lmns_perna_sup_dir
+    21300008: lmns_perna_inf_dir
+    21300010: lmns_perna_sup_esq
+    21300012: lmns_perna_inf_esq
+    21300014: lmns_tronco_sup
+    21300016: lmns_tronco_inf
+    21300018: lmns_braco_sup_esq
+    21300020: lmns_braco_inf_esq
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lmns_braco_sup_dir
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1078
+        width: 105
+        height: 502
+      alignment: 9
+      pivot: {x: 0.42324567, y: 0.93689865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lmns_braco_inf_dir
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 596
+        width: 117
+        height: 461
+      alignment: 9
+      pivot: {x: 0.47371575, y: 0.90691805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lmns_cabeca
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 691
+        width: 815
+        height: 919
+      alignment: 9
+      pivot: {x: 0.4886799, y: 0.0582909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lmns_perna_sup_dir
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 60
+        width: 119
+        height: 545
+      alignment: 9
+      pivot: {x: 0.5435019, y: 0.94168377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lmns_perna_inf_dir
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 66
+        width: 124
+        height: 541
+      alignment: 9
+      pivot: {x: 0.47519955, y: 0.93746525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lmns_perna_sup_esq
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 66
+        width: 114
+        height: 526
+      alignment: 9
+      pivot: {x: 0.45459038, y: 0.9222667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lmns_perna_inf_esq
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 61
+        width: 127
+        height: 549
+      alignment: 9
+      pivot: {x: 0.41464353, y: 0.9366922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lmns_tronco_sup
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 84
+        width: 110
+        height: 503
+      alignment: 9
+      pivot: {x: 0.39369673, y: 0.9344713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lmns_tronco_inf
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 117
+        width: 124
+        height: 437
+      alignment: 9
+      pivot: {x: 0.39078447, y: 0.9366818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lmns_braco_sup_esq
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1177
+        width: 89
+        height: 434
+      alignment: 9
+      pivot: {x: 0.4615739, y: 0.91842526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lmns_braco_inf_esq
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 755
+        width: 89
+        height: 407
+      alignment: 9
+      pivot: {x: 0.46544725, y: 0.92312807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
